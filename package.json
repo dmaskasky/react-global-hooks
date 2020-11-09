@@ -1,6 +1,7 @@
 {
   "name": "react-global-hooks",
   "version": "1.0.0",
+  "author": "David Maskasky <dmaskasky@gmail.com>",
   "description": "A library allowing to share state across react components ",
   "private": true,
   "main": "index.js",

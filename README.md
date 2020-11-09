@@ -580,6 +580,12 @@ const useHookB = createCommonHook((d) => {
 });
 ```
 
+## Authors and Acknowledgement 👏👏👏
+David Maskasky
+Georgios Karnas
+
+Special thanks to Diana Suvorova
+
 ## License
 
 MIT
